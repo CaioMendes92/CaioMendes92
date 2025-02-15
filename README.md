@@ -9,4 +9,4 @@
 - 🌱 Atualmente estou estudando sobre Machine Learning aplicada a fraudes (se tiver sugestões do que estudar, me manda mensagem! 😊)
 - 👯 Estou sempre procurando onde posso aprender/ajudar a melhorar projetos. 
 - 📫 Como me encontrar: Pode ser por aqui no git, estou sempre online, ou pelo e-mail: caio.mendes@hotmail.com ou pelo linkedin: https://www.linkedin.com/in/caio-mendes-6654751ba/
-- 😄 Pronouns: Ele/Deke
+- 😄 Pronouns: Ele/Dele
